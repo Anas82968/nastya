@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c3f7ce-8fc8-4dc1-90cf-5d9e0a659471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/33.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RVR.html" beforeDir="false" afterPath="$PROJECT_DIR$/RVR.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +67,9 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1350" height="262" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1731679817021" />
-    <state x="677" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1731686585564">
+    <state x="677" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1731690175354">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="677" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1731686585564" />
+    <state x="677" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1731690175354" />
   </component>
 </project>
