@@ -9,6 +9,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,9 +65,9 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1350" height="262" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1731679817021" />
-    <state x="677" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1731679622657">
+    <state x="677" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1731686585564">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="677" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1731679622657" />
+    <state x="677" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1731686585564" />
   </component>
 </project>
